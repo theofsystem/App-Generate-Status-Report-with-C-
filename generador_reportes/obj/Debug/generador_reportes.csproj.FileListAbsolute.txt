@@ -1,0 +1,11 @@
+C:\Users\gdlricov\source\repos\generador_reportes\generador_reportes\bin\Debug\generador_reportes.exe.config
+C:\Users\gdlricov\source\repos\generador_reportes\generador_reportes\bin\Debug\generador_reportes.exe
+C:\Users\gdlricov\source\repos\generador_reportes\generador_reportes\bin\Debug\generador_reportes.pdb
+C:\Users\gdlricov\source\repos\generador_reportes\generador_reportes\obj\Debug\generador_reportes.csproj.AssemblyReference.cache
+C:\Users\gdlricov\source\repos\generador_reportes\generador_reportes\obj\Debug\generador_reportes.csproj.SuggestedBindingRedirects.cache
+C:\Users\gdlricov\source\repos\generador_reportes\generador_reportes\obj\Debug\generador_reportes.frm_reports.resources
+C:\Users\gdlricov\source\repos\generador_reportes\generador_reportes\obj\Debug\generador_reportes.Properties.Resources.resources
+C:\Users\gdlricov\source\repos\generador_reportes\generador_reportes\obj\Debug\generador_reportes.csproj.GenerateResource.cache
+C:\Users\gdlricov\source\repos\generador_reportes\generador_reportes\obj\Debug\generador_reportes.csproj.CoreCompileInputs.cache
+C:\Users\gdlricov\source\repos\generador_reportes\generador_reportes\obj\Debug\generador_reportes.exe
+C:\Users\gdlricov\source\repos\generador_reportes\generador_reportes\obj\Debug\generador_reportes.pdb
